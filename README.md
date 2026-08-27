@@ -6,7 +6,7 @@
           <b>Скачать Фото 1</b>
         </a>
       </p>
-      <img src="images/1.jpg" alt="Фото 1" width="100%" style="border-radius: 6px;">
+      <img src="[images/1.jpg](https://github.com/imlobz/images/blob/main/1.jpg)" alt="Фото 1" width="100%" style="border-radius: 6px;">
     </td>
     <td valign="top" width="33%">
       <p align="center">
