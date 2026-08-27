@@ -1,4 +1,4 @@
-<h1 align="center">Project Gallery</h1>
+[<h1 align="center">Project Gallery</h1>
 
 <p align="center">
   Короткое описание проекта
@@ -45,3 +45,4 @@
 <p align="center">
   <sub>Нажмите на фотографию, чтобы открыть её в полном размере</sub>
 </p>
+](https://raw.githubusercontent.com/imlobz/images/refs/heads/main/assets/1.jpg)
