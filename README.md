@@ -33,9 +33,9 @@
         </a>
         <br>
         <br>
-        <a href="./assets/2.jpg">
+        <a href="./assets/bread.jpg">
           <img
-            src="./assets/2.jpg"
+            src="./assets/bread.jpg"
             width="100%"
             alt="image 2"
           >
@@ -53,9 +53,9 @@
         </a>
         <br>
         <br>
-        <a href="./assets/3.jpg">
+        <a href="./assets/bread.jpg">
           <img
-            src="./assets/3.jpg"
+            src="./assets/bread.jpg"
             width="100%"
             alt="image 3"
           >
@@ -71,9 +71,9 @@
         </a>
         <br>
         <br>
-        <a href="./assets/4.jpg">
+        <a href="./assets/bread.jpg">
           <img
-            src="./assets/4.jpg"
+            src="./assets/bread.jpg"
             width="100%"
             alt="image 4"
           >
