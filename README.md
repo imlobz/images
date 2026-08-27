@@ -45,4 +45,3 @@
 <p align="center">
   <sub>Нажмите на фотографию, чтобы открыть её в полном размере</sub>
 </p>
-](https://raw.githubusercontent.com/imlobz/images/refs/heads/main/assets/1.jpg)
