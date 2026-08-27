@@ -1,28 +1,47 @@
-<table border="0" cellspacing="15" cellpadding="0" width="100%">
+<h1 align="center">Project Gallery</h1>
+
+<p align="center">
+  Короткое описание проекта
+</p>
+
+<p align="center">
+  <a href="https://github.com/imlobz/images/releases/latest/download/project.zip">
+    <img
+      src="https://img.shields.io/badge/Download-18181B?style=flat&logo=github&logoColor=white"
+      alt="Download"
+    >
+  </a>
+</p>
+
+<br>
+
+<table width="100%">
   <tr>
-    <td valign="top" width="33%">
-      <p align="center">
-        <a href="https://githubusercontent.com" download="image1.jpg">
-          <b>Скачать Фото 1</b>
-        </a>
-      </p>
-      <img src="[images/1.jpg](https://github.com/imlobz/images/blob/main/1.jpg)" alt="Фото 1" width="100%" style="border-radius: 6px;">
+    <td width="50%" align="center">
+      <a href="./assets/photo-1.jpg">
+        <img src="./assets/photo-1.jpg" width="100%" alt="Фото 1">
+      </a>
     </td>
-    <td valign="top" width="33%">
-      <p align="center">
-        <a href="https://githubusercontent.com" download="image2.jpg">
-          <b>Скачать Фото 2</b>
-        </a>
-      </p>
-      <img src="images/2.jpg" alt="Фото 2" width="100%" style="border-radius: 6px;">
+    <td width="50%" align="center">
+      <a href="./assets/photo-2.jpg">
+        <img src="./assets/photo-2.jpg" width="100%" alt="Фото 2">
+      </a>
     </td>
-    <td valign="top" width="33%">
-      <p align="center">
-        <a href="https://githubusercontent.com" download="image3.jpg">
-          <b>Скачать Фото 3</b>
-        </a>
-      </p>
-      <img src="images/3.jpg" alt="Фото 3" width="100%" style="border-radius: 6px;">
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <a href="./assets/photo-3.jpg">
+        <img src="./assets/photo-3.jpg" width="100%" alt="Фото 3">
+      </a>
+    </td>
+    <td width="50%" align="center">
+      <a href="./assets/photo-4.jpg">
+        <img src="./assets/photo-4.jpg" width="100%" alt="Фото 4">
+      </a>
     </td>
   </tr>
 </table>
+
+<p align="center">
+  <sub>Нажмите на фотографию, чтобы открыть её в полном размере</sub>
+</p>
