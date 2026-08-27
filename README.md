@@ -19,23 +19,23 @@
   <tr>
     <td width="50%" align="center">
       <a href="./assets/photo-1.jpg">
-        <img src="./assets/photo-1.jpg" width="100%" alt="Фото 1">
+        <img src="./assets/1.jpg" width="100%" alt="Фото 1">
       </a>
     </td>
     <td width="50%" align="center">
       <a href="./assets/photo-2.jpg">
-        <img src="./assets/photo-2.jpg" width="100%" alt="Фото 2">
+        <img src="./assets/1.jpg" width="100%" alt="Фото 2">
       </a>
     </td>
   </tr>
   <tr>
     <td width="50%" align="center">
-      <a href="./assets/photo-3.jpg">
+      <a href="./assets/1.jpg">
         <img src="./assets/photo-3.jpg" width="100%" alt="Фото 3">
       </a>
     </td>
     <td width="50%" align="center">
-      <a href="./assets/photo-4.jpg">
+      <a href="./assets/1.jpg">
         <img src="./assets/photo-4.jpg" width="100%" alt="Фото 4">
       </a>
     </td>
