@@ -33,9 +33,9 @@
         </a>
         <br>
         <br>
-        <a href="./assets/bread.jpg">
+        <a href="./assets/cat.jpg">
           <img
-            src="./assets/bread.jpg"
+            src="./assets/cat.jpg"
             width="100%"
             alt="image 2"
           >
